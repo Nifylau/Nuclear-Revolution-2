@@ -6,13 +6,63 @@ hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
+metafile = true
+
+[[files]]
 file = "mods/chameleon.pw.toml"
 hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "d147d561c5b715ba9528cc507fa1f85bfeef89f4da260c1c301f80e0033f0b73"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
+metafile = true
+
+[[files]]
+file = "mods/first-aid.pw.toml"
+hash = "77f6eba7bcfcac39409a6d708742f7b1a0265d3f8988364101029daf63109f50"
+metafile = true
+
+[[files]]
+file = "mods/forge-backpacks.pw.toml"
+hash = "de9392eadb5028ad2c588a9e6b422cf521d87da08d3126a15a248834e81be468"
+metafile = true
+
+[[files]]
 file = "mods/hbms-nuclear-tech-mod-reloaded.pw.toml"
 hash = "4dcad3a51bd575fff4c5c9b9634632b8a8a2b872b66713e23f84a7ab7c859744"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
 metafile = true
 
 [[files]]
@@ -51,8 +101,18 @@ hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
 
 [[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "62814a10c80fd9da818a3586a4df9604614e176390eb45a53c1adfc25037afe3"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b9d564847fd7fabd6f9d65f001d1da9c2d1c03e5df5d9d258db713b4f145d1d0"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
 
 [[files]]
