@@ -1,0 +1,13 @@
+name = "Modern Warfare Cubed"
+filename = "Modern-Warfare-Cubed-0.1-Dev-14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i7UykFeR/versions/PZUSYUEQ/Modern-Warfare-Cubed-0.1-Dev-14.jar"
+hash-format = "sha1"
+hash = "86eacf2410bc3e04bdfc486143f69c12dfd0de0f"
+
+[update]
+[update.modrinth]
+mod-id = "i7UykFeR"
+version = "PZUSYUEQ"

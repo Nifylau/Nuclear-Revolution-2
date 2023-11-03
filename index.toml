@@ -96,8 +96,18 @@ hash = "186416dfcddfb41fe0ecd15bfafc67aec937c36e5dbac496386c9a480d2eb294"
 metafile = true
 
 [[files]]
+file = "mods/modern-warfare-cubed.pw.toml"
+hash = "47293924abddf11056af070d21a25e269483cb4784d846d4572431e9df98a31f"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "fcd674ea2034806f5cd5dc8f9970e3a77b67c2b28326e87624f9159eb39c6a69"
 metafile = true
 
 [[files]]
@@ -118,9 +128,4 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "142cd8aa6f26b116fb5d07bd0c26463e90d3591c0fa1d30f35d4b1a8eae2142d"
-metafile = true
-
-[[files]]
-file = "mods/vics-modern-warfare-mod.pw.toml"
-hash = "fa6c91ce9030728003ea87cf27d83b60d6871d895a4a30bf6aca254699219631"
 metafile = true
