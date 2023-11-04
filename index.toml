@@ -51,6 +51,11 @@ hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "84bc0fd3c0936b57882354af57f54a7f9465f1d703262451b13371c320c3ef8c"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
 metafile = true
