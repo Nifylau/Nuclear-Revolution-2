@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "77f9847d2b2390ea4fb3a6ea9c06cf5dd12908e432ba9ffb1af5070ad960c050"
-=======
-hash = "72285a12334ab1f606fbc79a4f07663ed32036ec6e1c22eccf6de2f7fb7c9679"
->>>>>>> parent of d7a5d34 (refresh)
 
 [versions]
 forge = "14.23.5.2860"
