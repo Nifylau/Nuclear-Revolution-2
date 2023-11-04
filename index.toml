@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/Nuclear-Revolution-2.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "7c407574ffa3b8b662ddfe44b51a2bd7dff033acc7b6ef94793a0b3255ba919c"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "75ce339d1515dec03d226fb015ceedc0d1321ba2c7017dbc2681514c000cfcb7"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "f48283d8c09ba3dde30990910c8dcb023706bd57b45058ed9c86d9225d5ee4d8"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
@@ -124,7 +144,6 @@ metafile = true
 file = "mods/mouse-tweaks.pw.toml"
 hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
-
 
 [[files]]
 file = "mods/red-core.pw.toml"
