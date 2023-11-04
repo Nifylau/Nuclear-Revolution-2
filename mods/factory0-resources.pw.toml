@@ -1,0 +1,13 @@
+name = "Factory0-Resources"
+filename = "Factory0-Resources-1.12.2-1.0.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6869e975e385f70dd53e882db4992b4bf1a4bd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2614729
+project-id = 299713

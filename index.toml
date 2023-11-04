@@ -6,8 +6,18 @@ hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
 
 [[files]]
+file = "mods/bedrockores.pw.toml"
+hash = "38283265b62c0337abbb40cf768062f7b7a8746fdfd3a3f20e17a21a9c886685"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "bf615adaabcb307b15814a8b4ac9f2dcbda46dc983f3c8e958432b2ed133b37a"
 metafile = true
 
 [[files]]
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/factory0-resources.pw.toml"
+hash = "7968ca852f31b72fd2e3ff022b56c0d640f87231f379e317b43fdc8d27d98032"
 metafile = true
 
 [[files]]
