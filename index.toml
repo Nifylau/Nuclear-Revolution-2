@@ -126,11 +126,6 @@ hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
 
 [[files]]
-file = "mods/no-caves.pw.toml"
-hash = "bd95794ce676fb75643da1ce16176488fc5df8186f3f08d65a883163307c43ae"
-metafile = true
-
-[[files]]
 file = "mods/red-core.pw.toml"
 hash = "fcd674ea2034806f5cd5dc8f9970e3a77b67c2b28326e87624f9159eb39c6a69"
 metafile = true
