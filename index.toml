@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
+hash = "b5b6687381fb9448bd810d5c10896fd095e256d2effcc4aa602e7824e5a65903"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/hbms-nuclear-tech-mod-reloaded.pw.toml"
-hash = "4dcad3a51bd575fff4c5c9b9634632b8a8a2b872b66713e23f84a7ab7c859744"
+hash = "2fe8ad52efce14086c7a0db113555da20fdcd91f13499fc3bac01da80cf58534"
 metafile = true
 
 [[files]]
@@ -117,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7df3e470ce54bd383a0fe740e057a8c35512d538b73158d2bf3efae0d274171e"
+hash = "7d15bd3065dfd074bdd3beffe17fe3c64e1a48c65402b243c2846b895766273c"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "dba81061f9ae2e5266b8eb31a5e4f61c1f5ddd2c421afa0d5b13c9cd9a159e81"
+hash = "fdc7c16deef289a8b6089d5eab3c6957f64650d2792d5e2398b8e4cf239cfbd4"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-warfare-cubed.pw.toml"
-hash = "47293924abddf11056af070d21a25e269483cb4784d846d4572431e9df98a31f"
+hash = "4fd3843e9762fe91b3a8df01e7f2654e434e1ee733f7527fde3fc1c247e26f55"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "fcd674ea2034806f5cd5dc8f9970e3a77b67c2b28326e87624f9159eb39c6a69"
+hash = "2b3b1d1944ec4342139349a106e33ba87caf76e291599e80d7545558344fdb10"
 metafile = true
 
 [[files]]

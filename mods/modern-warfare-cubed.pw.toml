@@ -1,13 +1,13 @@
 name = "Modern Warfare Cubed"
-filename = "Modern-Warfare-Cubed-0.1-Dev-14.jar"
+filename = "Modern-Warfare-Cubed-0.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/i7UykFeR/versions/PZUSYUEQ/Modern-Warfare-Cubed-0.1-Dev-14.jar"
+url = "https://cdn.modrinth.com/data/i7UykFeR/versions/eHAkhhlF/Modern-Warfare-Cubed-0.1.5.jar"
 hash-format = "sha1"
-hash = "86eacf2410bc3e04bdfc486143f69c12dfd0de0f"
+hash = "209fa5d425d196e278a2218f001517b4cf02c165"
 
 [update]
 [update.modrinth]
 mod-id = "i7UykFeR"
-version = "PZUSYUEQ"
+version = "eHAkhhlF"
